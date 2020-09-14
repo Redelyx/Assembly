@@ -1,4 +1,4 @@
-# Assembly
+# The Hangman
 
 A little game that i made for my Assembly exam at University of Parma.
 The game is <b>"The Hangman"</b> or in italian "Gioco dell'impiccato".
